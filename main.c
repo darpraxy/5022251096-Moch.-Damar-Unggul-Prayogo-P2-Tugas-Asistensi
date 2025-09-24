@@ -1,7 +1,5 @@
 // Benarkan Code ini
-
-
-
+#include <stdio.h>
 #define N 3  // ini untuk deklarasi size matrix berapa (biar tetap seimbang saat perkalian matrix)
 
 sum = 0; // Ini adalah hasil perbaikan.
